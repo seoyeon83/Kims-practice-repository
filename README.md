@@ -1,6 +1,7 @@
 # Kim's-practice-repository
 
 [comment]: <> (## algorithm-practice)
+(~2024)
 꾸준히 1주 중 5일씩, 1일 1커밋하는 것이 목표인 프로그래밍 공부 레포지토리입니다.
 
 ## 1. 알고리즘(코딩테스트) 문제 풀기
